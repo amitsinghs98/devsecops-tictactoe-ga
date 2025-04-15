@@ -1,6 +1,6 @@
 # DevSecOps Pipeline Implementation for Tic Tac Toe Game
 ## Read my blog: https://amitsinghs.hashnode.dev/devsecops-cicd-pipeline-implementation-tiktactoe-game
-## LinkedIn Post: https://www.linkedin.com/posts/amit-singh-deora-08741b172_devsecops-cicd-githubactions-activity-7303806804235325442-Oc9i
+## LinkedIn Post: https://www.linkedin.com/posts/amit-singh-deora_githubactions-devsecops-cicd-activity-7303806804235325442-YCXl
 
 ![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
 
